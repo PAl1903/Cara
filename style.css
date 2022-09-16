@@ -6,6 +6,10 @@
     box-sizing: border-box;
     font-family: 'Spartan',sans-serif;
 }
+::selection{
+    background-color:yellow;
+    color:#000;
+}
 h1{
     font-size:50px;
     line-height: 64px;
